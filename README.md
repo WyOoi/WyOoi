@@ -36,16 +36,15 @@
 - 🔭 **Name:** Weiyuan Ooi  
 - 🧑‍💻 **Role:** Computer Engineer & Robotics Enthusiast  
 - 🌍 **Location:** Kuala Lumpur, Malaysia  
-- 🔗 **Pronouns:** He/Him  
 </details>
 
 <details>
 <summary id="current-learning">🌱 Current Learning</summary>
 
-- 📡 **Advanced IoT Architectures** with ESP32 & LoRaWAN  
+- 📡 **Advanced IoT Architectures** with ESP32 & RaspberryPi  
 - 🤖 **Computer Vision** pipelines using YOLOv8 on ROS  
-- ⚛️ **Real-Time Systems** optimization in C++  
-- 🌐 **Modern Web Dev**: TypeScript, React, Next.js, & Tailwind CSS  
+- ⚛️ **Large Language Models** model fine-tuning  
+- 🌐 **Modern Web Dev**: TypeScript, React, Next.js, & Tailwind CSS, Web3 & Blockchain  
 </details>
 
 <details>
