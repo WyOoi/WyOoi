@@ -77,8 +77,6 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 
 ## 🛠️ Tech Stack:
 
-## 🛠️ Tech Stack:
-
 <p align="center">
   <!-- Core Languages & Frameworks -->
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%20-%2300599C?style=flat-square&logo=c%2B%2B&logoWidth=40" />
