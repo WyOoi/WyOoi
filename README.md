@@ -6,11 +6,17 @@
 <!-- Badges -->
 <p align="center">
 
-| <a href="https://github.com/WyOoi"><img src="https://img.shields.io/github/followers/WyOoi?label=Follow&style=social" alt="Follow on GitHub" /></a> | <a href="https://github.com/WyOoi/WyOoi/stargazers"><img src="https://img.shields.io/github/stars/WyOoi/WyOoi?style=social" alt="Repo Stars" /></a> | <img src="https://visitor-badge.glitch.me/badge?page_id=WyOoi.WyOoi" alt="Visitor Count" /> | <img src="https://github-readme-stats.vercel.app/api?username=WyOoi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WyOoi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://github.com/WyOoi"><img src="https://img.shields.io/github/followers/WyOoi?label=Follow&style=social" alt="Follow on GitHub" /></a> | <a href="https://github.com/WyOoi/WyOoi/stargazers"><img src="https://img.shields.io/github/stars/WyOoi/WyOoi?style=social" alt="Repo Stars" /></a> | <img src="https://visitor-badge.glitch.me/badge?page_id=WyOoi.WyOoi" alt="Visitor Count" /> | 
+|:---:|:---:|:---:|
 
 </p>
 
+<p align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=WyOoi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WyOoi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
+|:---:|:---:|
+
+</p>
 
 ---
 
