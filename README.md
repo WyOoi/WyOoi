@@ -6,8 +6,9 @@
 <!-- Badges -->
 <p align="center">
 
-| <a href="https://github.com/WyOoi"><img src="https://img.shields.io/github/followers/WyOoi?label=Follow&style=social" alt="Follow on GitHub" /></a> | <a href="https://github.com/WyOoi/WyOoi/stargazers"><img src="https://img.shields.io/github/stars/WyOoi/WyOoi?style=social" alt="Repo Stars" /></a> | <img src="https://komarev.com/ghpvc/?username=WyOoi&label=Profile%20views&color=blue&style=flat" alt="Profile views" /> |
+| <a href="https://github.com/WyOoi?tab=followers"><img src="https://img.shields.io/github/followers/WyOoi?label=Followers&style=flat-square&logo=github" alt="Followers" /></a> | <a href="https://github.com/WyOoi/WyOoi/stargazers"><img src="https://img.shields.io/github/stars/WyOoi/WyOoi?label=Stars&style=flat-square&logo=github" alt="Stars" /></a> | <img src="https://komarev.com/ghpvc/?username=WyOoi&label=Profile%20views&style=flat-square" alt="Profile views" /> |
 |:---:|:---:|:---:|
+
 </p>
 
 <p align="center">
