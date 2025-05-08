@@ -51,7 +51,7 @@
 <details>
 <summary id="contact">📫 How to Reach Me</summary>
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)  
+- **Email:** [weiyuanooi88@gmail.com](mailto:weiyuanooi88@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - **Twitter:** [@YourHandle](https://twitter.com/YourHandle)  
 - **Slack/X**: Your Slack or other chat handle  
