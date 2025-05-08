@@ -86,6 +86,8 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-%23F7DF1E?style=flat-square&logo=javascript&logoWidth=40" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20-%23007ACC?style=flat-square&logo=typescript&logoWidth=40" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%20-%23777BB4?style=flat-square&logo=php&logoWidth=40" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%20-%23E34F26?style=flat-square&logo=html5&logoWidth=40" />
+  <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-%20-%23FECB00?style=flat-square&logo=labview&logoWidth=40" />
 
   <!-- Web & Databases -->
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20-%23000000?style=flat-square&logo=next.js&logoWidth=40" />
@@ -104,6 +106,8 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
   <!-- Robotics & Vision -->
   <img alt="ROS" src="https://img.shields.io/badge/ROS-%20-%23E94E1B?style=flat-square&logo=robot-operating-system&logoWidth=40" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%20-%23E34F26?style=flat-square&logo=opencv&logoWidth=40" />
+  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%20-%23000000?style=flat-square&logoWidth=40" />
+  <img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-%20-%2300C0A3?style=flat-square&logo=roboflow&logoWidth=40" />
 
   <!-- ML & DL -->
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%20-%23FF6F61?style=flat-square&logo=tensorflow&logoWidth=40" />
