@@ -78,20 +78,20 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 ## 🛠️ Tech Stack:
 
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-17-%2300599C?style=flat-square&logo=c%2B%2B" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-8.1-%23777BB4?style=flat-square&logo=php" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%234479A1?style=flat-square&logo=mysql" />
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-5.2-%23F29111?style=flat-square&logo=phpmyadmin" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-13-%23000000?style=flat-square&logo=next.js" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18-%2343853D?style=flat-square&logo=node.js" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-2.39-%23F05033?style=flat-square&logo=git" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql" />
+  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin%23F29111?style=flat-square&logo=phpmyadmin" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D?style=flat-square&logo=node.js" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git" />
   <img alt="ROS" src="https://img.shields.io/badge/ROS-Noetic-%23E94E1B?style=flat-square&logo=robot-operating-system" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-4.7-%23E34F26?style=flat-square&logo=opencv" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-%233776AB?style=flat-square&logo=python" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23E34F26?style=flat-square&logo=opencv" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-✓-%2300C2C1?style=flat-square&logo=scikitlearn" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-✓-%23FF6F61?style=flat-square&logo=tensorflow" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.1-%23007ACC?style=flat-square&logo=typescript" />
-  <img alt="React" src="https://img.shields.io/badge/React-18-%2361DAFB?style=flat-square&logo=react" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react" />
 </p>
 
 
