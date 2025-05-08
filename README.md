@@ -77,23 +77,48 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 
 ## 🛠️ Tech Stack:
 
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql" />
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin%23F29111?style=flat-square&logo=phpmyadmin" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D?style=flat-square&logo=node.js" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git" />
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-Noetic-%23E94E1B?style=flat-square&logo=robot-operating-system" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23E34F26?style=flat-square&logo=opencv" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-✓-%2300C2C1?style=flat-square&logo=scikitlearn" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-✓-%23FF6F61?style=flat-square&logo=tensorflow" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript" />
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react" />
-</p>
+## 🛠️ Tech Stack:
 
+<p align="center">
+  <!-- Core Languages & Frameworks -->
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%20-%2300599C?style=flat-square&logo=c%2B%2B&logoWidth=40" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%20-%233776AB?style=flat-square&logo=python&logoWidth=40" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-%23F7DF1E?style=flat-square&logo=javascript&logoWidth=40" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20-%23007ACC?style=flat-square&logo=typescript&logoWidth=40" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%20-%23777BB4?style=flat-square&logo=php&logoWidth=40" />
+
+  <!-- Web & Databases -->
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20-%23000000?style=flat-square&logo=next.js&logoWidth=40" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20-%2343853D?style=flat-square&logo=node.js&logoWidth=40" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%20-%2338B2AC?style=flat-square&logo=tailwind-css&logoWidth=40" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20-%234479A1?style=flat-square&logo=mysql&logoWidth=40" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20-%2347A248?style=flat-square&logo=mongodb&logoWidth=40" />
+  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%20-%23F29111?style=flat-square&logo=phpmyadmin&logoWidth=40" />
+
+  <!-- Embedded & IoT -->
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-%20-%23024F9D?style=flat-square&logo=esp32&logoWidth=40" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%20-%23049BE4?style=flat-square&logo=arduino&logoWidth=40" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-%20-%23C51A4A?style=flat-square&logo=raspberry-pi&logoWidth=40" />
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-%20-%23F36D2C?style=flat-square&logo=mqtt&logoWidth=40" />
+
+  <!-- Robotics & Vision -->
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-%20-%23E94E1B?style=flat-square&logo=robot-operating-system&logoWidth=40" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%20-%23E34F26?style=flat-square&logo=opencv&logoWidth=40" />
+
+  <!-- ML & DL -->
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%20-%23FF6F61?style=flat-square&logo=tensorflow&logoWidth=40" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%20-%23EE4C2C?style=flat-square&logo=PyTorch&logoWidth=40" />
+
+  <!-- DevOps & Virtualization -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-%20-%23F05033?style=flat-square&logo=git&logoWidth=40" />
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%20-%234472A0?style=flat-square&logo=virtualbox&logoWidth=40" />
+
+  <!-- EDA & Simulation -->
+  <img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-%20-%23F25022?style=flat-square&logo=Tinkercad&logoWidth=40" />
+  <img alt="EasyEDA" src="https://img.shields.io/badge/EasyEDA-%20-%234EAA25?style=flat-square&logo=easyeda&logoWidth=40" />
+  <img alt="Proteus" src="https://img.shields.io/badge/Proteus-%20-%23007ACC?style=flat-square&logo=labview&logoWidth=40" />
+  <img alt="MPLAB IDE" src="https://img.shields.io/badge/MPLAB_IDE-%20-%23ED1C24?style=flat-square&logo=microchip&logoWidth=40" />
+</p>
 
 ---
 
