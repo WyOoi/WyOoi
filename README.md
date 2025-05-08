@@ -87,7 +87,7 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WyOoi&bg_color=ffffff&color=2ECC71&line=2B2D42&point=FF5733&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/WyOoi?bg_color=ffffff&color=2ECC71&line=2B2D42&point=FF5733" alt="Weiyuan's GitHub Chart" />
 </p>
 
 ---
