@@ -25,8 +25,9 @@
 3. [💼 Collaboration Interests](#-collaboration-interests)  
 4. [📫 Contact & Connect](#-contact--connect)  
 5. [⚡ Fun Fact](#-fun-fact)  
-6. [🚀 Key Projects](#-key-projects)  
-7. [📊 Contribution Activity](#-contribution-activity)  
+6. [🛠️ Tech Stack](#️-tech-stack)  
+7. [🚀 Key Projects](#-key-projects)  
+8. [📊 Contribution Activity](#-contribution-activity)  
 
 ---
 
@@ -41,10 +42,11 @@
 <details>
 <summary id="current-learning">🌱 Current Learning</summary>
 
-- 📡 **Advanced IoT Architectures** with ESP32 & RaspberryPi  
+- 📡 **Advanced IoT Architectures** with ESP32 & Raspberry Pi  
 - 🤖 **Computer Vision** pipelines using YOLOv8 on ROS  
-- ⚛️ **Large Language Models** model fine-tuning  
-- 🌐 **Modern Web Dev**: TypeScript, React, Next.js, & Tailwind CSS, Web3 & Blockchain  
+- ⚛️ **Large Language Models** fine-tuning  
+- 🌐 **Modern Web Dev**: TypeScript, React, Next.js, & Tailwind CSS  
+- 🔗 **Web3 & Blockchain** fundamentals  
 </details>
 
 <details>
@@ -73,14 +75,36 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 
 ---
 
+## 🛠️ Tech Stack:
+
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-17-%2300599C?style=flat-square&logo=c%2B%2B" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-8.1-%23777BB4?style=flat-square&logo=php" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%234479A1?style=flat-square&logo=mysql" />
+  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-5.2-%23F29111?style=flat-square&logo=phpmyadmin" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-13-%23000000?style=flat-square&logo=next.js" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18-%2343853D?style=flat-square&logo=node.js" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-2.39-%23F05033?style=flat-square&logo=git" />
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-Noetic-%23E94E1B?style=flat-square&logo=robot-operating-system" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-4.7-%23E34F26?style=flat-square&logo=opencv" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-%233776AB?style=flat-square&logo=python" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-✓-%2300C2C1?style=flat-square&logo=scikitlearn" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-✓-%23FF6F61?style=flat-square&logo=tensorflow" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.1-%23007ACC?style=flat-square&logo=typescript" />
+  <img alt="React" src="https://img.shields.io/badge/React-18-%2361DAFB?style=flat-square&logo=react" />
+</p>
+
+
+---
+
 ## 🚀 Key Projects
 
 | Project                                | Tech Stack                                    | Highlights                           |
 |----------------------------------------|-----------------------------------------------|--------------------------------------|
-| **Anti Microsleep Prevention System**  | Raspberry Pi + OpenCV + ROS                   | 🏆 UTeM HatchQuest No.2              |
-| **Maze Solving Robot**                  | ESP32 + APDS9960 + Depth First Search        | 🏆 MazeCraze UM No.3 + Best Design   |
-| **University Bus GPS Tracker**         | ESP32 + Neo-6M GPS + PHP + MySQL              | 🏆 UTeM Smart Campus Challenge No.3 + Best Design |
-| **Real-Time Flood Detection Demo**     | LoRaWAN Sensors + Python AI Model + React     | 🔬 Prototype Phase             |
+| **Anti Microsleep Prevention System**  | Raspberry Pi · OpenCV · ROS                   | 🏆 UTeM HatchQuest No.2              |
+| **Maze Solving Robot**                 | ESP32 · APDS9960 · Depth First Search         | 🏆 MazeCraze UM No.3 + Best Design   |
+| **University Bus GPS Tracker**         | ESP32 · Neo-6M GPS · PHP · MySQL              | 🏆 UTeM Smart Campus Challenge No.3 |
+| **Real-Time Flood Detection Demo**     | LoRaWAN Sensors · Python · Machine Learning · React | 🔬 Prototype Phase             |
 
 ---
 
@@ -92,4 +116,4 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 
 ---
 
-❤️‍🔥 Thanks for stopping by—let’s connect and build something amazing together!
+❤️‍🔥 Thanks for stopping by—let’s connect and build something amazing together!  
