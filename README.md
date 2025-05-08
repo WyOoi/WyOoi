@@ -78,8 +78,8 @@ I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even 
 | Project                                | Tech Stack                                    | Highlights                           |
 |----------------------------------------|-----------------------------------------------|--------------------------------------|
 | **Anti Microsleep Prevention System**  | Raspberry Pi + OpenCV + ROS                   | 🏆 UTeM HatchQuest No.2              |
-| **Campus Event Management System**     | C++ | STL, Linked Lists, Trees                | 📚 University Showcase              |
-| **University Bus GPS Tracker**         | ESP32 + Neo-6M GPS + PHP + MySQL              | 🏆 UTeM Smart Campus Challenge No.2  |
+| **Maze Solving Robot**                  | ESP32 + APDS9960 + Depth First Search        | 🏆 MazeCraze UM No.3 + Best Design   |
+| **University Bus GPS Tracker**         | ESP32 + Neo-6M GPS + PHP + MySQL              | 🏆 UTeM Smart Campus Challenge No.3 + Best Design |
 | **Real-Time Flood Detection Demo**     | LoRaWAN Sensors + Python AI Model + React     | 🔬 Prototype Phase             |
 
 ---
