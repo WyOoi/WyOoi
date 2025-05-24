@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
 <div align="center">
 
