@@ -249,8 +249,6 @@ Features:
 
 </div>
 
----
-
 <div align="center">
 
 ---
