@@ -129,10 +129,10 @@
 
 | Competition | Placement | Project | Year |
 |:---:|:---:|:---:|:---:|
-| **UTeM HatchQuest** | 🥈 **2nd Place** | Anti-Microsleep Prevention System | 2023 |
-| **MazeCraze UM** | 🥉 **3rd Place + Best Design** | Autonomous Maze Solver | 2023 |
-| **UTeM Smart Campus Challenge** | 🥉 **3rd Place** | Smart Campus Bus Tracker | 2023 |
-| **Regional IoT Hackathon** | 🏅 **Best Innovation** | Smart Flood Detection System | 2022 |
+| **World Youth STEM Invention Innovation (WYSII 2023)** | 🏆 **Platinum Award, Gold Award, ISS Special Award, Best Innovation in Computer Science & AI, Best Video Presenter, Best Entrepreneur Award** | Autonomous Car using Machine Learning | 2023 |
+| **World Robotic Center Competition** | 🥉 **3rd Place** | Line Following Robot | 2025 |
+| **MazeCraze UM** | 🥉 **3rd Place + Best Design** | Autonomous Maze Solver | 2025 |
+| **STMY Mega Hackathon** | 🏅 **Finalist** | Ride Chain | 2025 |
 
 </div>
 
