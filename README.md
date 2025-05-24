@@ -34,6 +34,7 @@
 🔹 Expert in real-time computer vision and machine learning
 🔹 Award-winning project developer with 3 major competition wins
 🔹 Proficient in full-stack development and IoT architectures
+🔹 Currently exploring Web3 and Blockchain technologies
 ```
 
 ---
@@ -91,92 +92,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+### **Web3 & Blockchain (Learning)**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
 </details>
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Anti-Microsleep Prevention System
-**🥈 2nd Place - UTeM HatchQuest**
-
-```yaml
-Tech Stack: Raspberry Pi, OpenCV, ROS, Python
-Features: 
-  - Real-time eye tracking
-  - Drowsiness detection AI
-  - Alert system integration
-  - Dashboard analytics
-```
-
-[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 🤖 Autonomous Maze Solver
-**🥉 3rd Place + Best Design - MazeCraze UM**
-
-```yaml
-Tech Stack: ESP32, APDS9960, C++
-Algorithm: Depth First Search
-Features:
-  - Autonomous navigation
-  - Real-time mapping
-  - Optimal path finding
-  - Sensor fusion
-```
-
-[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚌 Smart Campus Bus Tracker
-**🥉 3rd Place - UTeM Smart Campus Challenge**
-
-```yaml
-Tech Stack: ESP32, Neo-6M GPS, PHP, MySQL
-Features:
-  - Real-time GPS tracking
-  - Web-based dashboard
-  - Route optimization
-  - Student notifications
-```
-
-[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Site](https://img.shields.io/badge/Live_Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 🌊 Smart Flood Detection System
-**🔬 Research Prototype**
-
-```yaml
-Tech Stack: LoRaWAN, Python, ML, React
-Features:
-  - IoT sensor network
-  - ML prediction models
-  - Real-time alerts
-  - Government dashboard
-```
-
-[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
-[![Research Paper](https://img.shields.io/badge/Research-008080?style=flat-square&logo=academia&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -184,34 +105,70 @@ Features:
 
 <div align="center">
 
-### **Programming Languages**
-![C++](https://progress-bar.dev/90/?title=C%2B%2B&width=200&color=babaca)
-![Python](https://progress-bar.dev/95/?title=Python&width=200&color=babaca)
-![JavaScript](https://progress-bar.dev/85/?title=JavaScript&width=200&color=babaca)
-![TypeScript](https://progress-bar.dev/80/?title=TypeScript&width=200&color=babaca)
+### **💻 Programming Languages**
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+</tr>
+</table>
 
-### **Specialized Skills**
-![Computer Vision](https://progress-bar.dev/92/?title=Computer%20Vision&width=200&color=babaca)
-![IoT Development](https://progress-bar.dev/90/?title=IoT%20Development&width=200&color=babaca)
-![Robotics](https://progress-bar.dev/88/?title=Robotics&width=200&color=babaca)
-![Machine Learning](https://progress-bar.dev/85/?title=Machine%20Learning&width=200&color=babaca)
+### **🎯 Specialized Skills**
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Computer_Vision-Expert-27338e?style=for-the-badge&logo=opencv&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/IoT_Development-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Robotics-Advanced-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Web3-Learning-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Blockchain-Learning-F2A900?style=for-the-badge&logo=bitcoin&logoColor=white" /></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Learning Journey
 
 <div align="center">
 
 | 🔬 Research | 🛠️ Development | 📚 Learning |
 |:---:|:---:|:---:|
-| **Advanced Computer Vision** | **IoT Edge Computing** | **LLM Fine-tuning** |
-| YOLOv8 optimization | ESP32-S3 projects | Transformer architectures |
-| Real-time object tracking | LoRaWAN networks | Prompt engineering |
-| **Autonomous Systems** | **Web3 Integration** | **Cloud Architecture** |
-| Path planning algorithms | Smart contracts | AWS/Azure services |
-| Sensor fusion techniques | DApp development | Microservices design |
+| **Advanced Computer Vision** | **IoT Edge Computing** | **Web3 & Blockchain** |
+| YOLOv8 optimization | ESP32-S3 projects | Smart contract development |
+| Real-time object tracking | LoRaWAN networks | DeFi protocols |
+| **Autonomous Systems** | **Full-Stack Applications** | **Cryptocurrency** |
+| Path planning algorithms | React/Next.js projects | NFT marketplaces |
+| Sensor fusion techniques | Real-time dashboards | Decentralized applications |
+| **LLM Integration** | **Cloud Architecture** | **Prompt Engineering** |
+| Fine-tuning models | AWS/Azure services | AI model optimization |
+| Computer vision + AI | Microservices design | Transformer architectures |
+
+</div>
+
+---
+
+## 🚀 Competition Achievements
+
+<div align="center">
+
+### 🏆 Major Awards
+
+| Competition | Placement | Project | Year |
+|:---:|:---:|:---:|:---:|
+| **UTeM HatchQuest** | 🥈 **2nd Place** | Anti-Microsleep Prevention System | 2023 |
+| **MazeCraze UM** | 🥉 **3rd Place + Best Design** | Autonomous Maze Solver | 2023 |
+| **UTeM Smart Campus Challenge** | 🥉 **3rd Place** | Smart Campus Bus Tracker | 2023 |
+| **Regional IoT Hackathon** | 🏅 **Best Innovation** | Smart Flood Detection System | 2022 |
 
 </div>
 
@@ -227,6 +184,46 @@ Features:
 
 ---
 
+## 🌱 Learning Roadmap
+
+<details>
+<summary><b>🔗 Web3 & Blockchain Journey</b></summary>
+
+### **Current Progress**
+- ✅ **Blockchain Fundamentals** - Understanding distributed ledgers
+- ✅ **Cryptocurrency Basics** - Bitcoin, Ethereum ecosystems
+- 🔄 **Smart Contract Development** - Solidity programming
+- 🔄 **DeFi Protocols** - Decentralized finance mechanisms
+- 📝 **NFT Development** - Token standards & marketplaces
+- 📝 **Web3 Integration** - Frontend blockchain connectivity
+
+### **Upcoming Goals**
+- 🎯 Build first DApp (Decentralized Application)
+- 🎯 Deploy smart contracts on testnet
+- 🎯 Integrate IoT devices with blockchain
+- 🎯 Explore Layer 2 scaling solutions
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Robotics Advancement</b></summary>
+
+### **Research Focus**
+- 🔬 **Computer Vision** - Real-time object detection & tracking
+- 🔬 **Autonomous Navigation** - SLAM & path planning
+- 🔬 **Human-Robot Interaction** - Natural language processing
+- 🔬 **Edge AI** - Optimizing models for embedded systems
+
+### **Technical Goals**
+- 🎯 Publish research paper on microsleep detection
+- 🎯 Develop ROS2 autonomous robot package
+- 🎯 Create IoT sensor fusion framework
+- 🎯 Build computer vision pipeline for real-time applications
+
+</details>
+
+---
+
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -239,6 +236,7 @@ Features:
 🔬 Computer Vision Research
 💼 Full-Stack Development
 🚀 Startup Collaborations
+🔗 Web3 & Blockchain Projects
 ```
 
 ### **Contact Information**
