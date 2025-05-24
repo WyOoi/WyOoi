@@ -1,6 +1,6 @@
 <!-- 🚀 Professional Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Weiyuan+Ooi+👋;Computer+Engineer+%26+Robotics+Expert;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Weiyuan+Ooi+👋;Computer+Engineer+%26+Robotics+Enthusiast;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
 </div>
 
 <!-- Enhanced Badges Section -->
@@ -227,29 +227,6 @@ Features:
 
 ---
 
-## 🏅 Achievements & Certifications
-
-<details>
-<summary><b>🏆 Competition Awards</b></summary>
-
-- 🥈 **2nd Place** - UTeM HatchQuest 2023 (Anti-Microsleep System)
-- 🥉 **3rd Place + Best Design** - MazeCraze UM 2023 (Autonomous Robot)
-- 🥉 **3rd Place** - UTeM Smart Campus Challenge 2023 (Bus Tracker)
-- 🏅 **Best Innovation Award** - Regional IoT Hackathon 2022
-
-</details>
-
-<details>
-<summary><b>📜 Professional Certifications</b></summary>
-
-- 🎓 **AWS Certified Cloud Practitioner** (In Progress)
-- 🎓 **TensorFlow Developer Certificate** (Planned)
-- 🎓 **ROS2 Certified Developer** (Planned)
-
-</details>
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -275,9 +252,6 @@ Features:
 ---
 
 <div align="center">
-
-### ⚡ Fun Fact
-*I once programmed an ESP32 to play Tetris on an OLED screen with persistent high-score storage in flash memory!* 🎮
 
 ---
 
