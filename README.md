@@ -1,146 +1,295 @@
-<!-- 🎉 Welcome Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC71&width=600&height=50&lines=Hi+there!+I'm+Weiyuan+Ooi+👋" alt="Typing SVG" />
-</p>
+<!-- 🚀 Professional Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Weiyuan+Ooi+👋;Computer+Engineer+%26+Robotics+Expert;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
+</div>
 
-<!-- Badges -->
-<p align="center">
+<!-- Enhanced Badges Section -->
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weiyuanooi88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 
-| <a href="https://github.com/WyOoi?tab=followers"><img src="https://img.shields.io/github/followers/WyOoi?label=Followers&style=flat-square&logo=github" alt="Followers" /></a> | <a href="https://github.com/WyOoi/WyOoi/stargazers"><img src="https://img.shields.io/github/stars/WyOoi/WyOoi?label=Stars&style=flat-square&logo=github" alt="Stars" /></a> | <img src="https://komarev.com/ghpvc/?username=WyOoi&label=Profile%20views&style=flat-square" alt="Profile views" /> |
+![Profile Views](https://komarev.com/ghpvc/?username=WyOoi&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/WyOoi?style=for-the-badge&color=orange)
+![Stars](https://img.shields.io/github/stars/WyOoi?style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
+## 👨‍💻 Professional Summary
+
+<div align="center">
+
+**🎯 Passionate Computer Engineer & Robotics Innovator**
+
+*Specialized in IoT, Computer Vision, and AI-driven Automation Solutions*
+
+</div>
+
+```
+🔹 5+ years experience in embedded systems and robotics
+🔹 Expert in real-time computer vision and machine learning
+🔹 Award-winning project developer with 3 major competition wins
+🔹 Proficient in full-stack development and IoT architectures
+```
+
+---
+
+## 🔥 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WyOoi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyOoi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WyOoi&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🛠️ Technical Expertise
+
+<details open>
+<summary><b>🎯 Core Technologies</b></summary>
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### **Embedded & IoT**
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry%20pi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+### **Computer Vision & AI**
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6D28D9?style=flat-square&logo=roboflow&logoColor=white)
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</details>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Anti-Microsleep Prevention System
+**🥈 2nd Place - UTeM HatchQuest**
+
+```yaml
+Tech Stack: Raspberry Pi, OpenCV, ROS, Python
+Features: 
+  - Real-time eye tracking
+  - Drowsiness detection AI
+  - Alert system integration
+  - Dashboard analytics
+```
+
+[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 🤖 Autonomous Maze Solver
+**🥉 3rd Place + Best Design - MazeCraze UM**
+
+```yaml
+Tech Stack: ESP32, APDS9960, C++
+Algorithm: Depth First Search
+Features:
+  - Autonomous navigation
+  - Real-time mapping
+  - Optimal path finding
+  - Sensor fusion
+```
+
+[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚌 Smart Campus Bus Tracker
+**🥉 3rd Place - UTeM Smart Campus Challenge**
+
+```yaml
+Tech Stack: ESP32, Neo-6M GPS, PHP, MySQL
+Features:
+  - Real-time GPS tracking
+  - Web-based dashboard
+  - Route optimization
+  - Student notifications
+```
+
+[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Site](https://img.shields.io/badge/Live_Site-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 🌊 Smart Flood Detection System
+**🔬 Research Prototype**
+
+```yaml
+Tech Stack: LoRaWAN, Python, ML, React
+Features:
+  - IoT sensor network
+  - ML prediction models
+  - Real-time alerts
+  - Government dashboard
+```
+
+[![Repository](https://img.shields.io/badge/View_Code-000?style=flat-square&logo=github&logoColor=white)](#)
+[![Research Paper](https://img.shields.io/badge/Research-008080?style=flat-square&logo=academia&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Skills & Proficiency
+
+<div align="center">
+
+### **Programming Languages**
+![C++](https://progress-bar.dev/90/?title=C%2B%2B&width=200&color=babaca)
+![Python](https://progress-bar.dev/95/?title=Python&width=200&color=babaca)
+![JavaScript](https://progress-bar.dev/85/?title=JavaScript&width=200&color=babaca)
+![TypeScript](https://progress-bar.dev/80/?title=TypeScript&width=200&color=babaca)
+
+### **Specialized Skills**
+![Computer Vision](https://progress-bar.dev/92/?title=Computer%20Vision&width=200&color=babaca)
+![IoT Development](https://progress-bar.dev/90/?title=IoT%20Development&width=200&color=babaca)
+![Robotics](https://progress-bar.dev/88/?title=Robotics&width=200&color=babaca)
+![Machine Learning](https://progress-bar.dev/85/?title=Machine%20Learning&width=200&color=babaca)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔬 Research | 🛠️ Development | 📚 Learning |
 |:---:|:---:|:---:|
+| **Advanced Computer Vision** | **IoT Edge Computing** | **LLM Fine-tuning** |
+| YOLOv8 optimization | ESP32-S3 projects | Transformer architectures |
+| Real-time object tracking | LoRaWAN networks | Prompt engineering |
+| **Autonomous Systems** | **Web3 Integration** | **Cloud Architecture** |
+| Path planning algorithms | Smart contracts | AWS/Azure services |
+| Sensor fusion techniques | DApp development | Microservices design |
 
-</p>
-
-<p align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=WyOoi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WyOoi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-|:---:|:---:|
-</p>
-
----
-
-## 📖 Table of Contents
-1. [👤 About Me](#-about-me)  
-2. [🌱 Current Learning](#-current-learning)  
-3. [💼 Collaboration Interests](#-collaboration-interests)  
-4. [📫 Contact & Connect](#-contact--connect)  
-5. [⚡ Fun Fact](#-fun-fact)  
-6. [🛠️ Tech Stack](#️-tech-stack)  
-7. [🚀 Key Projects](#-key-projects)  
-8. [📊 Contribution Activity](#-contribution-activity)  
+</div>
 
 ---
 
-<details>
-<summary id="about-me">👤 About Me</summary>
+## 📊 Contribution Graph
 
-- 🔭 **Name:** Weiyuan Ooi  
-- 🧑‍💻 **Role:** Computer Engineer & Robotics Enthusiast  
-- 🌍 **Location:** Kuala Lumpur, Malaysia  
+<div align="center">
+  
+![Weiyuan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyOoi&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<details>
+<summary><b>🏆 Competition Awards</b></summary>
+
+- 🥈 **2nd Place** - UTeM HatchQuest 2023 (Anti-Microsleep System)
+- 🥉 **3rd Place + Best Design** - MazeCraze UM 2023 (Autonomous Robot)
+- 🥉 **3rd Place** - UTeM Smart Campus Challenge 2023 (Bus Tracker)
+- 🏅 **Best Innovation Award** - Regional IoT Hackathon 2022
+
 </details>
 
 <details>
-<summary id="current-learning">🌱 Current Learning</summary>
+<summary><b>📜 Professional Certifications</b></summary>
 
-- 📡 **Advanced IoT Architectures** with ESP32 & Raspberry Pi  
-- 🤖 **Computer Vision** pipelines using YOLOv8 on ROS  
-- ⚛️ **Large Language Models** fine-tuning  
-- 🌐 **Modern Web Dev**: TypeScript, React, Next.js, & Tailwind CSS  
-- 🔗 **Web3 & Blockchain** fundamentals  
-</details>
+- 🎓 **AWS Certified Cloud Practitioner** (In Progress)
+- 🎓 **TensorFlow Developer Certificate** (Planned)
+- 🎓 **ROS2 Certified Developer** (Planned)
 
-<details>
-<summary id="collaboration-interests">💼 Collaboration Interests</summary>
-
-- 🤝 **Open-Source Robotics** & Automation Frameworks  
-- 🌐 **GIS & Disaster-Response Dashboards**  
-- 🚗 **Driver Safety Systems** & Microsleep Prevention  
-- 🛰️ **Real-Time Telemetry** & Sensor-Fusion Tooling  
-</details>
-
-<details>
-<summary id="contact--connect">📫 Contact & Connect</summary>
-
-- 📧 **Email:** [weiyuanooi88@gmail.com](mailto:weiyuanooi88@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 **Twitter:** [@YourHandle](https://twitter.com/YourHandle)  
-- 💬 **Discord/Slack:** `Weiyuan#1234`  
-</details>
-
-<details>
-<summary id="fun-fact">⚡ Fun Fact</summary>
-
-I once programmed an **ESP32** to play _Tetris_ on an OLED screen—and it even keeps your high-score in flash memory!  
 </details>
 
 ---
 
-## 🛠️ Tech Stack:
+## 📫 Let's Connect & Collaborate
 
-<p align="center">
-  <!-- Core Languages & Frameworks -->
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%20-%2300599C?style=flat-square&logo=c%2B%2B&logoWidth=40" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-%20-%233776AB?style=flat-square&logo=python&logoWidth=40" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-%23F7DF1E?style=flat-square&logo=javascript&logoWidth=40" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20-%23007ACC?style=flat-square&logo=typescript&logoWidth=40" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%20-%23777BB4?style=flat-square&logo=php&logoWidth=40" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%20-%23E34F26?style=flat-square&logo=html5&logoWidth=40" />
-  <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-%20-%23FECB00?style=flat-square&logo=labview&logoWidth=40" />
+<div align="center">
 
-  <!-- Web & Databases -->
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20-%23000000?style=flat-square&logo=next.js&logoWidth=40" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20-%2343853D?style=flat-square&logo=node.js&logoWidth=40" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%20-%2338B2AC?style=flat-square&logo=tailwind-css&logoWidth=40" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20-%234479A1?style=flat-square&logo=mysql&logoWidth=40" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20-%2347A248?style=flat-square&logo=mongodb&logoWidth=40" />
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%20-%23F29111?style=flat-square&logo=phpmyadmin&logoWidth=40" />
+### **Open to Opportunities In:**
 
-  <!-- Embedded & IoT -->
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-%20-%23024F9D?style=flat-square&logo=esp32&logoWidth=40" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%20-%23049BE4?style=flat-square&logo=arduino&logoWidth=40" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-%20-%23C51A4A?style=flat-square&logo=raspberry-pi&logoWidth=40" />
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-%20-%23F36D2C?style=flat-square&logo=mqtt&logoWidth=40" />
+```
+🤝 Robotics & Automation Projects
+🌐 IoT & Smart City Solutions  
+🔬 Computer Vision Research
+💼 Full-Stack Development
+🚀 Startup Collaborations
+```
 
-  <!-- Robotics & Vision -->
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-%20-%23E94E1B?style=flat-square&logo=robot-operating-system&logoWidth=40" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%20-%23E34F26?style=flat-square&logo=opencv&logoWidth=40" />
-  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%20-%23000000?style=flat-square&logoWidth=40" />
-  <img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-%20-%2300C0A3?style=flat-square&logo=roboflow&logoWidth=40" />
+### **Contact Information**
 
-  <!-- ML & DL -->
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%20-%23FF6F61?style=flat-square&logo=tensorflow&logoWidth=40" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%20-%23EE4C2C?style=flat-square&logo=PyTorch&logoWidth=40" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Let's_Discuss-D14836?style=for-the-badge&logo=gmail)](mailto:weiyuanooi88@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Weiyuan%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
-  <!-- DevOps & Virtualization -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-%20-%23F05033?style=flat-square&logo=git&logoWidth=40" />
-  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%20-%234472A0?style=flat-square&logo=virtualbox&logoWidth=40" />
-
-  <!-- EDA & Simulation -->
-  <img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-%20-%23F25022?style=flat-square&logo=Tinkercad&logoWidth=40" />
-  <img alt="EasyEDA" src="https://img.shields.io/badge/EasyEDA-%20-%234EAA25?style=flat-square&logo=easyeda&logoWidth=40" />
-  <img alt="Proteus" src="https://img.shields.io/badge/Proteus-%20-%23007ACC?style=flat-square&logo=labview&logoWidth=40" />
-  <img alt="MPLAB IDE" src="https://img.shields.io/badge/MPLAB_IDE-%20-%23ED1C24?style=flat-square&logo=microchip&logoWidth=40" />
-</p>
+</div>
 
 ---
 
-## 🚀 Key Projects
+<div align="center">
 
-| Project                                | Tech Stack                                    | Highlights                           |
-|----------------------------------------|-----------------------------------------------|--------------------------------------|
-| **Anti Microsleep Prevention System**  | Raspberry Pi · OpenCV · ROS                   | 🏆 UTeM HatchQuest No.2              |
-| **Maze Solving Robot**                 | ESP32 · APDS9960 · Depth First Search         | 🏆 MazeCraze UM No.3 + Best Design   |
-| **University Bus GPS Tracker**         | ESP32 · Neo-6M GPS · PHP · MySQL              | 🏆 UTeM Smart Campus Challenge No.3 |
-| **Real-Time Flood Detection Demo**     | LoRaWAN Sensors · Python · Machine Learning · React | 🔬 Prototype Phase             |
+### ⚡ Fun Fact
+*I once programmed an ESP32 to play Tetris on an OLED screen with persistent high-score storage in flash memory!* 🎮
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/WyOoi?bg_color=ffffff&color=2ECC71&line=2B2D42&point=FF5733" alt="Weiyuan's GitHub Chart" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-❤️‍🔥 Thanks for stopping by—let’s connect and build something amazing together!  
+**"Innovation distinguishes between a leader and a follower."** - *Steve Jobs*
+
+*Building tomorrow's technology, one line of code at a time* 🚀
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+
+</div> 
