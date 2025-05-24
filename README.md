@@ -184,46 +184,6 @@
 
 ---
 
-## 🌱 Learning Roadmap
-
-<details>
-<summary><b>🔗 Web3 & Blockchain Journey</b></summary>
-
-### **Current Progress**
-- ✅ **Blockchain Fundamentals** - Understanding distributed ledgers
-- ✅ **Cryptocurrency Basics** - Bitcoin, Ethereum ecosystems
-- 🔄 **Smart Contract Development** - Solidity programming
-- 🔄 **DeFi Protocols** - Decentralized finance mechanisms
-- 📝 **NFT Development** - Token standards & marketplaces
-- 📝 **Web3 Integration** - Frontend blockchain connectivity
-
-### **Upcoming Goals**
-- 🎯 Build first DApp (Decentralized Application)
-- 🎯 Deploy smart contracts on testnet
-- 🎯 Integrate IoT devices with blockchain
-- 🎯 Explore Layer 2 scaling solutions
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Robotics Advancement</b></summary>
-
-### **Research Focus**
-- 🔬 **Computer Vision** - Real-time object detection & tracking
-- 🔬 **Autonomous Navigation** - SLAM & path planning
-- 🔬 **Human-Robot Interaction** - Natural language processing
-- 🔬 **Edge AI** - Optimizing models for embedded systems
-
-### **Technical Goals**
-- 🎯 Publish research paper on microsleep detection
-- 🎯 Develop ROS2 autonomous robot package
-- 🎯 Create IoT sensor fusion framework
-- 🎯 Build computer vision pipeline for real-time applications
-
-</details>
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
