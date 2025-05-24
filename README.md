@@ -101,42 +101,6 @@
 
 ---
 
-## 📈 Skills & Proficiency
-
-<div align="center">
-
-### **💻 Programming Languages**
-<table align="center">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-<td align="center"><img src="https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-</tr>
-</table>
-
-### **🎯 Specialized Skills**
-<table align="center">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Computer_Vision-Expert-27338e?style=for-the-badge&logo=opencv&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/IoT_Development-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Robotics-Advanced-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Web3-Learning-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Blockchain-Learning-F2A900?style=for-the-badge&logo=bitcoin&logoColor=white" /></td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 Current Focus & Learning Journey
 
 <div align="center">
