@@ -108,10 +108,9 @@
 |:---:|:---:|:---:|
 | **Advanced Computer Vision** | **IoT Edge Computing** | **Web3 & Blockchain** |
 | YOLOv8 optimization | ESP32-S3 projects | Smart contract development |
-| Real-time object tracking | LoRaWAN networks | DeFi protocols |
+| Real-time object tracking | LoRaWAN networks | Decentralized applications |
 | **Autonomous Systems** | **Full-Stack Applications** | **Cryptocurrency** |
 | Path planning algorithms | React/Next.js projects | NFT marketplaces |
-| Sensor fusion techniques | Real-time dashboards | Decentralized applications |
 | **LLM Integration** | **Cloud Architecture** | **Prompt Engineering** |
 | Fine-tuning models | AWS/Azure services | AI model optimization |
 | Computer vision + AI | Microservices design | Transformer architectures |
