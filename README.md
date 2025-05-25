@@ -30,7 +30,7 @@
 
 ```
 🔹 5+ years experience in embedded systems and robotics
-🔹 Expert in real-time computer vision and machine learning
+🔹 Intermediate in real-time computer vision and machine learning
 🔹 Award-winning project developer with 3 major competition wins
 🔹 Proficient in full-stack development and IoT architectures
 🔹 Currently exploring Web3 and Blockchain technologies
